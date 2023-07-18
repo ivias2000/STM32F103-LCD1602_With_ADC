@@ -31,3 +31,4 @@ System Clock Configuration:
 The SystemClock_Config function configures the system clock for the microcontroller.
 
 To use this code on GitHub, follow the steps mentioned earlier to create a new repository and upload this C code as the main program file. Additionally, you can include a README.md file in your repository to provide more information about the project and how to use the code.
+![Screenshot 2023-07-18 115728](https://github.com/ivias2000/STM32F103-LCD1602_With_ADC/assets/125237611/74d4307c-3690-4267-91c8-75f6595d8052)
